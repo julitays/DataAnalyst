@@ -1,4 +1,4 @@
-<h1 align="center"><strong>DataAnalyst RoadMap</strong></h1>
+<h1 align="center">DataAnalyst RoadMap</h1>
 
 Хочу поделиться своим журналом обучения и погружение в профессию Аналитик Данных.
 
