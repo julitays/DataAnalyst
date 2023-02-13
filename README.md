@@ -1,4 +1,5 @@
-                                                                # DataAnalyst
+# DataAnalyst ![image](https://user-images.githubusercontent.com/119788019/218453377-cd095939-af68-475a-bc3d-ed9599b8c8c6.png)
+
 Хочу поделиться своим журналом обучения и погружение в профессию Аналитик Данных.
 
 
