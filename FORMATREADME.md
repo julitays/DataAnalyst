@@ -132,7 +132,7 @@ ____
 :black_square_button: делать или не делать, вот в чем вопрос?    
 ```
 
-Список работающих Эмодзи находится тут -> [emoji.md](https://github.com/GnuriaN/format-README.md/blob/master/emoji.md)    
+Список работающих Эмодзи находится тут -> [emoji.md](https://github.com/julitays/DataAnalyst/blob/main/emoji.md)
     
 [:arrow_up:Оглавление](#Оглавление)
 ___
